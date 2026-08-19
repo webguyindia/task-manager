@@ -46,7 +46,7 @@ globals.css    # Global styling
 ## ⚙️ Installation & Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/webguyindia/task-manager.git
    cd task-manager
 
 2. Install dependencies:
